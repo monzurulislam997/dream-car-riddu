@@ -1,0 +1,9 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+}
+
+.img-container img {
+    width: 500px;
+    height: 500px;
+}
