@@ -4,7 +4,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div>
+        <div className='bg-slate-50 p-5'>
             <nav className='m-4 '>
                 <Link className='hover:text-orange-600' to='/home'>HOME</Link>
                 <Link className='hover:text-orange-600' to='/reviews'>REVIEWS</Link>
