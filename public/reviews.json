@@ -1,0 +1,51 @@
+[
+    {
+        "_id": 1,
+        "picture": "https://randomuser.me/api/portraits/men/22.jpg",
+        "name": "Jhon Roe",
+        "review": "This car met all of my needs. It has plenty of legroom in the front and back, the ride is great compared to other cars I tested.",
+        "rating": 4.3
+    },
+    {
+        "_id": 2,
+        "picture": "https://randomuser.me/api/portraits/men/65.jpg",
+        "name": "Ashfaq kadir",
+        "review": "This car is a great preforming speedy thing. I reccomend to ALL.",
+        "rating": 4
+    },
+    {
+        "_id": 3,
+        "picture": "https://randomuser.me/api/portraits/men/60.jpg",
+        "name": "Jhon Frank",
+        "review": "This car met all of my need...it so comfortable and very fast..",
+        "rating": 5
+    },
+    {
+        "_id": 4,
+        "picture": "https://randomuser.me/api/portraits/men/61.jpg",
+        "name": "Donald Roeky",
+        "review": "It’s the best car ever. I wouldn’t suggest it because it’s to expensive.",
+        "rating": 4.3
+    },
+    {
+        "_id": 5,
+        "picture": "https://randomuser.me/api/portraits/men/24.jpg",
+        "name": "Jhon Roe",
+        "review": "I have a lot of car driving experience but this is orthy of money.Jus t cooool...",
+        "rating": 3
+    },
+    {
+        "_id": 6,
+        "picture": "https://randomuser.me/api/portraits/men/77.jpg",
+        "name": "Asif Fadin",
+        "review": "This car met all of my needs. It has plenty of legroom in the front and back, the ride is great compared to other cars I tested.",
+        "rating": 5
+    },
+    {
+        "_id": 7,
+        "picture": "https://randomuser.me/api/portraits/men/44.jpg",
+        "name": "Marck Juckerburg",
+        "review": "I would live on with my life forever with this car or anything like it.Just fantasic",
+        "rating": 4
+    }
+]

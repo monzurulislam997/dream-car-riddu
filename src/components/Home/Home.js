@@ -1,8 +1,9 @@
 import React from 'react';
 import car from '../../images/car.jpg';
-import Reviews from '../Reviews/Reviews';
+import useReviews from '../hooks/useReviews';
 import './Home.css'
 const Home = () => {
+    const [reviews, setReviews] = useReviews()
     return (
         <div >
             <div className='home-container'>
@@ -16,7 +17,10 @@ const Home = () => {
                 </div>
 
             </div>
-            <Reviews></Reviews>
+            <h1 className='text-3xl text-center mt-16 font-bold'>Customer Reviews {reviews.length}</h1>
+
+
+
         </div>
 
     );
