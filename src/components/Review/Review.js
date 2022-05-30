@@ -10,7 +10,7 @@ const Review = (props) => {
                     <h1 className='text-xl font-bold text-violet-900'>{name}</h1>
                 </div>
                 <p className='text-gray-500 '>{review}</p>
-                <p className='text-cyan-500 font-bold'>Ratings: {rating} star</p>
+                <p className='text-orange-500 font-bold'>Ratings: {rating} star</p>
             </div>
         </div>
     );

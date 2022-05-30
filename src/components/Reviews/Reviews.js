@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import useReviews from '../hooks/useReviews';
 import Review from '../Review/Review';
 
@@ -15,15 +14,14 @@ const Reviews = () => {
                 {
                     reviews.map(review => <Review
                         key={review._id}
-                        review={review}></Review>)
+                        review={review}>
+
+                    </Review>)
                 }
 
 
             </div>
-            <button className='border py-1 px-4 bg-teal-600 rounded-md hover:bg-indigo-600 text-white font-bold '>
 
-                <Link to="/reviews"> See All Reviews</Link>
-            </button>
         </div>
     );
 };

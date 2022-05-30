@@ -4,7 +4,7 @@
         "picture": "https://randomuser.me/api/portraits/men/22.jpg",
         "name": "Jhon Roe",
         "review": "This car met all of my needs. It has plenty of legroom in the front and back, the ride is great compared to other cars I tested.",
-        "rating": 4.3
+        "rating": 4
     },
     {
         "_id": 2,
@@ -25,7 +25,7 @@
         "picture": "https://randomuser.me/api/portraits/men/61.jpg",
         "name": "Donald Roeky",
         "review": "It’s the best car ever. I wouldn’t suggest it because it’s to expensive.",
-        "rating": 4.3
+        "rating": 5
     },
     {
         "_id": 5,
