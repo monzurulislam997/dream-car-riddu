@@ -3,10 +3,10 @@
 You Can see The Project [Dream Car Riddu](https://github.com/facebook/create-react-app).
 
 ## ABOUT THE PROJECTS   
-*In Home component,only  3 customer reviews are loaded.By clicking see all reviews you can see all reviews.
-*In Reviews components, all customer reviews are loaded.
-*Dashboard Components are loaded some chart from recharts.
-*In Bloags component, most common question are answerd.
+-In Home component,only  3 customer reviews are loaded.By clicking see all reviews you can see all reviews.
+-In Reviews components, all customer reviews are loaded.
+-Dashboard Components are loaded some chart from recharts.
+-In Bloags component, most common question are answerd.
 
 
 ### `npm start`
